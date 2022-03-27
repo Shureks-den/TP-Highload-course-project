@@ -135,6 +135,10 @@ Spotify – мировой лидер на рынке стриминга муз�
 | 0,8%        | 1,6%             | 3,2%                       |   3,2%        |       91%     |
 
 
+## 3. Логическая схема
+
+![logic](images/logic_sheme.png)
+
 ## Источники
     1. https://longterminvestments.ru/spotify-analysis/
     2. https://backlinko.com/spotify-users#distribution-of-spotify-monthly-active-users
